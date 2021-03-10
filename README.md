@@ -23,7 +23,7 @@ Note! If the above gives you tree error, try first from terminal
 
 ```
 	cd ~/.julia/dev
-	git clone https://github.gatech.edu/SLIM/RCAM.jl.git RCAM
+	git clone https://github.com/slimgroup/RCAM.jl.git RCAM
 ```
 
 and then from Julia's package manager prompt:
@@ -39,7 +39,7 @@ and then from Julia's package manager prompt:
 After switching to package manager prompt (using ']') type:
 
 ```
-	add https://github.gatech.edu/SLIM/RCAM.jl.git
+	add https://github.com/slimgroup/RCAM.jl.git
 ```
 
 ## DCLR Framework
