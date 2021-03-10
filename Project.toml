@@ -1,0 +1,14 @@
+authors = ["Henryk Modzelewski <henryk_modzelewski@mac.com>"]
+name = "RCAM"
+uuid = "1a9a6158-f1f5-11e9-0746-05ab7d8dcde1"
+version = "0.7.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+DistributedArrays = "aaf54ef3-cdf8-58ed-94cc-d582ad619b94"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = ">= 0.7"
