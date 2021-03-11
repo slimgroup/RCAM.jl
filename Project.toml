@@ -1,7 +1,7 @@
 authors = ["Henryk Modzelewski <henryk_modzelewski@mac.com>"]
 name = "RCAM"
 uuid = "1a9a6158-f1f5-11e9-0746-05ab7d8dcde1"
-version = "0.7.0"
+version = "1.0.1"
 
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
