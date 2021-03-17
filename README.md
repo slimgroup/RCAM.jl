@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/346472245.svg)](https://zenodo.org/badge/latestdoi/346472245)
+
 # RCAM.jl
 
 Residual Constrained Alternating Minimization (RCAM) - A factorization-based alternating minimization scheme for large scale matrix completion in parallel computing architectures.
